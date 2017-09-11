@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Abrir Tela</string>
+    <string name="title_activity_tela2">Tela 2</string>
+    <string name="texto2">Esta é a Tela 2</string>
+    <string name="abrirTela">Abrir Tela</string>
+    <string name="sair">Sair</string>
+
+</resources>

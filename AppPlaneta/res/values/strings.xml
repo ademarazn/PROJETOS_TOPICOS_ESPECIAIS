@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppPlaneta</string>
+    <string name="selecionePlaneta">Selecione o Planeta</string>
+    <string name="mercurio">Mercúrio</string>
+    <string name="venus">Vênus</string>
+    <string name="marte">Marte</string>
+    <string name="jupter">Júpter</string>
+    <string name="saturno">Saturno</string>
+    <string name="urano">Urano</string>
+    <string name="peso">Peso na Terra</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+
+</resources>
