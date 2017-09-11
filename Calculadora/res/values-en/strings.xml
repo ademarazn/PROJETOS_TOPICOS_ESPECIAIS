@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="digitenum1">Type the first number</string>
+    <string name="digitenum2">Type the second number</string>
+    <string name="somar">Sum</string>
+    <string name="limpar">Clear</string>
+
+</resources>
