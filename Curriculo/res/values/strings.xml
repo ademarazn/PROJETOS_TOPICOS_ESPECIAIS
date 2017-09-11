@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Currículo</string>
+    <string name="dados">Dados Pessoais</string>
+    <string name="endereco">Endereço</string>
+    <string name="formacao">Formação</string>
+    <string name="title_activity_dado">Dado</string>
+    <string name="title_activity_endereco">Endereçoo</string>
+    <string name="title_activity_formacao">Formação</string>
+
+</resources>

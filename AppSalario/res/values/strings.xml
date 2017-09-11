@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppSalario</string>
+	<string name="texto1">Type your salary</string>
+	<string name="pergunta1">What is your percentual</string>
+    <string name="rb40">40%</string>
+    <string name="rb45">45%</string>
+    <string name="rb50">50%</string>
+    <string name="botao1">Calculate</string>
+    <string name="botao2">Clean</string>
+
+</resources>
