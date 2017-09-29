@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dragon Ball Z</string>
+    <string name="dbz_jpn">(ドラゴンボールZ)</string>
+    <string name="kakarotto">Kakarrot</string>
+    <string name="kakarotto_jpn">(カカロット)</string>
+    <string name="kakarotto_desc">Also known as Son Goku or just Goku. He is the protagonist, as much of the original plot of the manga as of the film. He is a member of an extraterrestrial race, the Saiyajins, beings with great power of destruction.</string>
+    <string name="chichi">Chi-Chi</string>
+    <string name="chichi_jpn">(チチ)</string>
+    <string name="chichi_desc">Goku\'s wife and mother of Gohan and Goten. A woman who cares for the welfare of the family. You want your children not to follow the lifestyle of the father, who is always involved in fights. However, your desire is always thwarted by the constant threats to Earth.</string>
+    <string name="vegeta">Vegeta</string>
+    <string name="vegeta_jpn">(ベジータ)</string>
+    <string name="vegeta_desc">Member and prince of the extraterrestrial race, Saiyajins. Known for being arrogant and proud, he does not accept that Goku is stronger than him.</string>
+    <string name="bulma">Bulma Briefs</string>
+    <string name="bulma_jpn">(ブルマ ブリーフ)</string>
+    <string name="bulma_desc">Vegeta\'s wife and daughter of the founder of Capsula Corporation. She is a brilliant scientist and her inventions are of great importance, like the Dragon Radar, a radar that shows the location of the dragon spheres.</string>
+    <string name="gohan">Son Gohan</string>
+    <string name="gohan_jpn">(孫 悟飯)</string>
+    <string name="gohan_desc">Son of Goku and Chi-Chi and the first hybrid between human and Saiyan. In the beginning he is a weeping boy, but over time he becomes a great Saiyan warrior who loves to face stronger enemies.</string>
+    <string name="trunks">Trunks Briefs</string>
+    <string name="trunks_jpn">(トランクス ブリーフ)</string>
+    <string name="trunks_desc">Son of Vegeta and Bulma, also a hybrid between human and Saiyan. Even during childhood he could already become Super Saiyan, which impressed everyone.</string>
+    <string name="goten">Son Goten</string>
+    <string name="goten_jpn">(孫 悟天)</string>
+    <string name="goten_desc">Second son of Goku and Chi-chi. Along with Trunks, they are able to perform the Fusion technique through the Metamoru Dance, resulting in Gotenks, a strong Saiyan.</string>
+    <string name="bills">The God of Destruction Bills</string>
+    <string name="bills_jpn">(破壊神ビルス)</string>
+    <string name="bills_desc">The antagonist and the God of Destruction of the seventh universe, who in total are 12. Despite being a god he has a trainer and assistant, called Whis, who accompanies him everywhere.</string>
+    <string name="whis">Whis</string>
+    <string name="whis_jpn">(ウイス)</string>
+    <string name="whis_desc">Coach and assistant of Bills, the God of Destruction. Responsible for helping to keep Bills from quitting destroying planets. He is quite distracted, but has calm and peaceful personality, unlike his disciple.</string>
+    <string name="freeza">Freeza</string>
+    <string name="freeza_jpn">(フリーザ)</string>
+    <string name="freeza_desc">Ancient enemy of the warriors Z. In a battle was defeated and killed by Goku. After his death, he stayed in the "hell", where several cute little angels and stuffed animals play around a tree in a green field while Freeza is inside a cocoon suspended in one of the branches. It is revived thanks to its old henchmen who want to take revenge on Goku and destroy the Earth.</string>
+    <string name="sair">Quit</string>
+    <string name="sair_jpn">(閉じる)</string>
+    <string name="action_about">About</string>
+    <string name="about">Developed by Ademar.\nFATEC Ourinhos.</string>
+    <string name="none"></string>
+
+</resources>
