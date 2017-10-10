@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Beatles Quiz</string>
+    <string name="iniciarIni">Iniciar</string>
+    <string name="sobreIni">Sobre</string>
+    <string name="sairIni">Sair</string>
+    <string name="title_activity_pergunta">Pergunta</string>
+    <string name="perg1">1. Qual era o nome do club que os Beatles iniciaram a carreira?</string>
+    <string name="perg11">The Cavern Club</string>
+    <string name="perg12">Liverpool\'s club</string>
+    <string name="perg13">Lee Parker</string>
+    <string name="perg14">N.D.A.</string>
+    <string name="perg2">2. Quem foi o primeiro baterista da banda?</string>
+    <string name="perg21">Ringo Starr</string>
+    <string name="perg22">George Best</string>
+    <string name="perg23">Pete Best</string>
+    <string name="perg24">N.D.A.</string>
+    <string name="perg3">3. A teoria afirma que foi morto por um acidente de carro em 1966, e substituido por um sósia desde entao, estamos falando é claro, de:</string>
+    <string name="perg31">John Lennon</string>
+    <string name="perg32">Brian Epstein</string>
+    <string name="perg33">Paul McCartney</string>
+    <string name="perg34">George Harrison</string>
+    <string name="perg4">4. Qual album foi marcado por musicas compostas apenas por Lennon/McCartney ?</string>
+    <string name="perg41">Abbey Road</string>
+    <string name="perg42">Help</string>
+    <string name="perg43">The Wall</string>
+    <string name="perg44">A Hard Days Night</string>
+    <string name="perg5">5. Como foi chamada a grande massa de fãs dos 4 garotos de Liverpool?</string>
+    <string name="perg51">Beatles Fans</string>
+    <string name="perg52">Beatlemania</string>
+    <string name="perg53">The Beatles Fanatics</string>
+    <string name="perg54">N.D.A.</string>
+    <string name="perg6">6. Como se chamava a primeira banda de John Lennon que deu origem aos Beatles?</string>
+    <string name="perg61">The Quarrymen</string>
+    <string name="perg62">Quarry Bank School</string>
+    <string name="perg63">The Crickets</string>
+    <string name="perg64">The Wings</string>
+    <string name="perg7">7. Quem é considerado o quinto Beatle?</string>
+    <string name="perg71">Pete Best, por ser o primeiro baterista</string>
+    <string name="perg72">Brain Epstein, sendo o empresário da banda</string>
+    <string name="perg73">Struart Sutcliffe, primeiro baixista da banda</string>
+    <string name="perg74">Pessoas que tiveram fortes associações na banda, alem do quarteto de Liverpool</string>
+    <string name="perg8">8. Ensinou John Lennon a tocar banjo, comprou seu primeiro violão, mas foi morta em 1958, atropelada por um policial bêbado. Estamos falando de quem?</string>
+    <string name="perg81">Tia Mimi</string>
+    <string name="perg82">Alfred Alf Lennon (pai de John)</string>
+    <string name="perg83">Julia Stanley (Mãe de John)</string>
+    <string name="perg84">N.D.A.</string>
+    <string name="perg9" translatable="false">9. Quanto tempo os Beatles demoraram pra gravar seu primeiro album, Please Please Me?</string>
+    <string name="perg91">1 dia</string>
+    <string name="perg92">3 meses</string>
+    <string name="perg93">5 dias</string>
+    <string name="perg94">2 semanas</string>
+    <string name="perg10">10. Em que data foi declarado o término dos Beatles?</string>
+    <string name="perg101">13 de fevereiro de 1970</string>
+    <string name="perg102">8 de dezembro de 1980</string>
+    <string name="perg103">9 de outubro de 1969</string>
+    <string name="perg104">10 de abril de 1970</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="none">&#8230;</string>
+    <string name="avancar">Avançar</string>
+    <string name="sobre">Desenvolvido por Ademar para a matéria de Tópicos Especiais em Informática do curso de Análise e Desenvolvimento de Sistemas da FATEC Ourinhos\n\nPerguntas obtidas do site rachacuca.com.br</string>
+    <string name="title_activity_acerto">AcertoActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
