@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProjetoBD</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome">NOME</string>
+    <string name="nome_hint">João Silva</string>
+    <string name="fone">TELEFONE</string>
+    <string name="fone_hint">12345678</string>
+    <string name="gravar">GRAVAR</string>
+
+</resources>

@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nome"
+        android:labelFor="@+id/txtnome" />
+
+    <EditText
+        android:id="@+id/txtnome"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/nome_hint" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fone"
+        android:labelFor="@+id/fone" />
+
+    <EditText
+        android:id="@+id/txtfone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:hint="@string/fone_hint" />
+
+    <Button
+        android:id="@+id/btnGravar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/gravar"
+        android:background="@android:color/holo_blue_light"
+        android:onClick="gravar" />
+
+    <ListView
+        android:id="@+id/lvMostraDados"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp" >
+    </ListView>
+
+</LinearLayout>
