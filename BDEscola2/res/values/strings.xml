@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BDEscola 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome">Nome</string>
+    <string name="hintNome">João Silva</string>
+    <string name="fone">Fone</string>
+    <string name="hintFone">12345678</string>
+    <string name="curso">Curso</string>
+    <string name="hintCurso">ADS</string>
+    <string name="salvar">SALVAR</string>
+    <string name="visualizar">VISUALIZAR DADOS</string>
+    <string name="title_activity_visualizar">Dados</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
