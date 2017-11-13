@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contatos</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="id">ID</string>
+    <string name="id_hint">000</string>
+    <string name="nome">NOME (obrigatório)</string>
+    <string name="nome_hint">John Lennon</string>
+    <string name="fone">TELEFONE</string>
+    <string name="fone_hint">1234&#8211;5678</string>
+    <string name="gravar">SALVAR</string>
+    <string name="alterar">ALTERAR</string>
+    <string name="excluir">EXCLUIR</string>
+    <string name="empty">NENHUM CONTATO</string>
+    <string name="confirmar_excluir">Este contato será excluído.</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="incompleto">Insira um nome!</string>
+    <string name="salvo">Contato salvo com sucesso!</string>
+    <string name="excluido">Contato excluído com sucesso!</string>
+    <string name="alterado">Contato alterado com sucesso!</string>
+    <string name="erro">Erro: </string>
+    <string name="erro_banco">Erro no Banco! </string>
+    <string name="erro_salvar">Erro ao salvar! </string>
+    <string name="erro_alterar">Erro ao alterar! </string>
+    <string name="erro_excluir">Erro ao excluir! </string>
+
+</resources>
