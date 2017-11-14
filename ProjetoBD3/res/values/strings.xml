@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contacts</string>
+    <string name="id">ID</string>
+    <string name="id_hint">0</string>
+    <string name="nome">NAME (required)</string>
+    <string name="nome_hint">John Lennon</string>
+    <string name="fone">PHONE</string>
+    <string name="fone_hint">123&#8211;4567</string>
+    <string name="salvar">SAVE</string>
+    <string name="alterar">EDIT</string>
+    <string name="excluir">DELETE</string>
+    <string name="empty">No contacts</string>
+    <string name="confirmar_alterar">This contact will be edited.</string>
+    <string name="confirmar_excluir">This contact will be deleted.</string>
+    <string name="cancelar">Cancel</string>
+    <string name="incompleto">Enter a name!</string>
+    <string name="salvo">Contact saved.</string>
+    <string name="excluido">Contact deleted.</string>
+    <string name="alterado">Contact edited.</string>
+    <string name="tudo_excluido">All contacts have been deleted!</string>
+    <string name="erro">Error: </string>
+    <string name="erro_banco">Database error! </string>
+    <string name="erro_salvar">Error while saving! </string>
+    <string name="erro_alterar">Error while editing! </string>
+    <string name="erro_excluir">Error while deleting! </string>
+    <string name="pesquisar">SEARCH</string>
+    <string name="incluir">ADD</string>
+    <string name="confirmar_voltar">Discard your changes?</string>
+    <string name="confirmar_apagar_tudo">Clear all data from the database table?</string>
+
+</resources>

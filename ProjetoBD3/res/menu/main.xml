@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/pesquisar"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@android:drawable/ic_menu_search"
+        android:showAsAction="always"
+        android:title="@string/pesquisar"/>
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/create_contact"
+        android:onClick="novo"
+        android:showAsAction="always"
+        android:title="@string/incluir"/>
+
+</menu>
